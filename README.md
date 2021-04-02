@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Tam, call me Kai
+- A back-end developer, is a written code for fun.
 - I love ChiChi so much <3
 
 <!---
