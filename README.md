@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tam, call me Kai
-- A back-end developer, is a written code for fun.
+- 👋 Hi, I’m Tam, call me Kai.
+- A Software Technical Architect — Who code for food and write for fun :)
 - I love ChiChi so much <3
 
 <!---
